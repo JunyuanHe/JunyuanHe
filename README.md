@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunyuanHe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&theme=transparent&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&stats_format=bytes)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)
+
