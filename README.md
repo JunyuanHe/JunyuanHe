@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&stats_format=bytes)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)
+<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe) -->
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)](https://github.com/anuraghazra/github-readme-stats)
 
