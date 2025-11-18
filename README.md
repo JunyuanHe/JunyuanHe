@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&theme=transparent&rank_icon=percentile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&theme=transparent&stats_format=bytes)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=transparent) 
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=default) 
 
 <!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)](https://github.com/anuraghazra/github-readme-stats) -->
 
