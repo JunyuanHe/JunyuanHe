@@ -18,12 +18,25 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JunyuanHe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunyuanHe&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<!-- transparent themes -->
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&theme=transparent&rank_icon=percentile)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&theme=transparent&stats_format=bytes)
 
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=transparent) 
+-->
 
-<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![JunyuanHe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![JunyuanHe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&rank_icon=percentile&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![JunyuanHe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&theme=transparent&stats_format=bytes&theme=dark#gh-dark-mode-only)
+![JunyuanHe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&theme=transparent&stats_format=bytes&theme=default#gh-light-mode-only)
+
+![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=dark#gh-dark-mode-only) 
+![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=default#gh-light-mode-only) 
+
 
