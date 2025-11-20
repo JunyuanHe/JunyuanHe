@@ -29,14 +29,15 @@ Here are some ideas to get you started:
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=transparent) 
 -->
 
-
+<!-- Adaptive themes according github's light and dark mode -->
 [![JunyuanHe's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&rank_icon=percentile&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![JunyuanHe's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JunyuanHe&show_icons=true&rank_icon=percentile&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![JunyuanHe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&stats_format=bytes&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![JunyuanHe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyuanHe&stats_format=bytes&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=dark#gh-dark-mode-only) 
-![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=default#gh-light-mode-only) 
+[![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![JunyuanHe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JunyuanHe&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 
