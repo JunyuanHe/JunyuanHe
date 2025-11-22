@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 [![JunyuanHe's WakaTime stats](https://github-readme-stats-tau-blush-22.vercel.app/api/wakatime?username=JunyuanHe&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![JunyuanHe's Top Langs](https://github-readme-stats-tau-blush-22.vercel.app/api/top-langs/?username=JunyuanHe&size_weight=0.5&count_weight=0.5&layout=normal&card_width=300&hide=HTML,Tex,BibTeX%20Style&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![JunyuanHe's Top Langs](https://github-readme-stats-tau-blush-22.vercel.app/api/top-langs/?username=JunyuanHe&size_weight=0.5&count_weight=0.5&layout=normal&card_width=300&hide=HTML,Tex,BibTeX%20Style&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![JunyuanHe's Top Langs](https://github-readme-stats-tau-blush-22.vercel.app/api/top-langs/?username=JunyuanHe&size_weight=0.5&count_weight=0.5&layout=normal&card_width=380&hide=HTML,Tex,BibTeX%20Style&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![JunyuanHe's Top Langs](https://github-readme-stats-tau-blush-22.vercel.app/api/top-langs/?username=JunyuanHe&size_weight=0.5&count_weight=0.5&layout=normal&card_width=380&hide=HTML,Tex,BibTeX%20Style&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
