@@ -13,10 +13,15 @@ I work across **Numerical Analysis**, **scientific computing**, **AI-driven crea
 
 
 ## 🛠 Tech  
+
 **Python · C++ · Julia · Web**  
+
 PETSc · PyTorch · MPI 
+
 PDE solvers · Time integration
+
 Scientific computing & visualization  
+
 Learning: Diffusion models · CLIP/BLIP  
 
 
