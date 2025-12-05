@@ -1,4 +1,42 @@
-## Hi there 👋
+# Hi, I'm Junyuan He 👋
+
+I'm a graduate student in **Numerical Mathematics** at AMSS, CAS.  
+I work across **Numerical Analysis**, **scientific computing**, **AI-driven creative tools** and **robotics**.
+
+
+## ⚡ Interests  
+- Numerical PDEs & high-order solvers  
+- Low-rank tensor methods  
+- Computer graphics & computer vision   
+- AI for novel writing, animation, and content creation
+- Physics-based simulation (fluids, solids, elasticity)
+
+
+## 🛠 Tech  
+**Python · C++ · Julia · Web**  
+PETSc · PyTorch · MPI 
+PDE solvers · Time integration
+Scientific computing & visualization  
+Learning: Diffusion models · CLIP/BLIP  
+
+
+
+## 📌 Current Projects  
+- High-order time integration modules  
+- Food recognition + region reasoning system  
+- AI novel-writing toolchain  
+- Semi-automated animation & video generation pipeline  
+
+
+<!--
+## 📫 Contact  
+Email: junyuanhe01@gmail.com 
+
+---
+-->
+Thanks for stopping by. 🌱  
+
+---
 
 <!--
 **JunyuanHe/JunyuanHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
