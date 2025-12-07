@@ -1,7 +1,7 @@
 # Hi, I'm Junyuan He 👋
 
 I'm a graduate student in **Numerical Mathematics** at AMSS, CAS.  
-I work across **Numerical Analysis**, **scientific computing**, **AI-driven creative tools** and **robotics**.
+I work across **Numerical Analysis**, **scientific computing** and **AI-driven creative tools**<!-- and **robotics**-->.
 
 
 ## ⚡ Interests  
